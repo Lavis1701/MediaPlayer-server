@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Manne Nambi|Adios Amigo",
+      "url": "https://i.ytimg.com/vi/6JckvJdP1Yw/maxresdefault.jpg",
+      "link": "http://www.youtube.com/embed/6JckvJdP1Yw"
+    },
+    {
+      "id": "3",
+      "caption": "King of Kotha - Kalapakkaara Video ",
+      "url": "https://i.ytimg.com/vi/VzT2xurZrbI/maxresdefault.jpg",
+      "link": "http://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "9",
+      "caption": "Kiliye (Malayalam) |ARM",
+      "url": "https://i.ytimg.com/vi/Wh3hPaYgKHA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBmOKt9SlhfmNEVaFryTBfYDLaNow",
+      "link": "http://www.youtube.com/embed/B2UBMTA57JI"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Little Hearts - Edan Poove Video ",
+      "link": "http://www.youtube.com/embed/gAcw4WUqHnQ",
+      "timeStamp": "09/26/2024, 10:05:53 AM",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "SONGS",
+      "allvideos": [
+        {
+          "id": "3",
+          "caption": "King of Kotha - Kalapakkaara Video ",
+          "url": "https://i.ytimg.com/vi/VzT2xurZrbI/maxresdefault.jpg",
+          "link": "http://www.youtube.com/embed/VzT2xurZrbI"
+        },
+        {
+          "id": "1",
+          "caption": "Manne Nambi|Adios Amigo",
+          "url": "https://i.ytimg.com/vi/6JckvJdP1Yw/maxresdefault.jpg",
+          "link": "http://www.youtube.com/embed/6JckvJdP1Yw"
+        }
+      ]
+    }
+  ]
+}
